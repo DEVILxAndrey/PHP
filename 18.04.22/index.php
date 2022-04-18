@@ -1,5 +1,8 @@
 <?php
-	namespace Controller;
+	namespace Modules;
 	
-	new Controller;
+	class UserCart extends  Modules
+	{
+		
+	}
 ?>
