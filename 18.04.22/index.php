@@ -1,7 +1,5 @@
 <?php
-	require_once '/core/controller.php';
-	require_once '/project/controller.php';
+	namespace Controller;
 	
-	$adminPage = new \Admin\Page;
-	$usersPage = new \Users\Page;
+	new Controller;
 ?>
